@@ -38,7 +38,7 @@ spec:
         carto.run/workload-name: surfersapi
     spec:
       containers:
-      - image: us.gcr.io/lloyd-266015/supply-chain/surfersapi-alpha@sha256:b8fc1036e112138d5bfdb51bf9d4fd66fa83511879c04fb718c587bccebc65f3
+      - image: us.gcr.io/lloyd-266015/supply-chain/surfersapi-alpha@sha256:802eb55a3e5cacb4db7c621889d03553b244ca18ba3a28a9a57c82ab4ba509f7
         name: workload
         resources: {}
         securityContext:
